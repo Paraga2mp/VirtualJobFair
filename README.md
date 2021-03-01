@@ -1,5 +1,5 @@
 # The Virtual Job Fair
-# (Documentation)
+# (Project Management Documentation)
   
   
 Initiated a project ‘The Virtual Job Fair’ which delivers an application to 
